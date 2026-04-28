@@ -50,7 +50,7 @@ const Footer = () => {
       <div className="border-t border-border">
         <div className="container-editorial py-6 text-xs text-muted-foreground flex flex-col md:flex-row gap-2 justify-between">
           <span>© {new Date().getFullYear()} {site.brand}. All rights reserved.</span>
-          <span>Boutique home staging · Warsaw</span>
+          <span>Boutique home staging · Krakow</span>
         </div>
       </div>
     </footer>

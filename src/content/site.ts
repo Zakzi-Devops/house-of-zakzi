@@ -17,8 +17,8 @@ export const site = {
   brand: "House of Zakzi",
   tagline: "Elegant home staging that helps properties sell faster and feel unforgettable.",
   email: "hello@houseofzakzi.com",
-  phone: "+48 600 000 000",
-  address: "Warsaw, Poland",
+  phone: "+48 518 914 323",
+  address: "Krakow, Poland",
   social: {
     instagram: "https://instagram.com/houseofzakzi",
     pinterest: "https://pinterest.com/houseofzakzi",
@@ -130,7 +130,7 @@ export const services: Service[] = [
       "Sourcing and preparation",
       "On-site staging and handover",
     ],
-    priceFrom: "from €1 200",
+    priceFrom: "from 1 200zl",
   },
   {
     slug: "interior-styling",
@@ -149,7 +149,7 @@ export const services: Service[] = [
       "Sourcing",
       "Styling day",
     ],
-    priceFrom: "from €800",
+    priceFrom: "from 800zl",
   },
   {
     slug: "photo-shoot-preparation",
@@ -168,7 +168,7 @@ export const services: Service[] = [
       "Shoot day styling",
       "Reset and handover",
     ],
-    priceFrom: "from €450",
+    priceFrom: "from 450zl",
   },
   {
     slug: "consultation",
@@ -187,7 +187,7 @@ export const services: Service[] = [
       "Recommendations",
       "Follow-up notes",
     ],
-    priceFrom: "from €180",
+    priceFrom: "from 180zl",
   },
 ];
 
@@ -195,8 +195,8 @@ export const testimonials = [
   {
     quote:
       "House of Zakzi transformed our listing in three days. The photos felt like a magazine and the apartment sold the same week.",
-    author: "Anna K.",
-    role: "Homeowner, Warsaw",
+    author: "Claudia Zakzi",
+    role: "Homeowner, Krakow",
   },
   {
     quote:
@@ -223,7 +223,7 @@ export const faqs = [
   },
   {
     q: "Which areas do you serve?",
-    a: "We work across Warsaw and surrounding regions. Projects elsewhere in Poland are welcome — please ask about travel.",
+    a: "We work across Krakow and surrounding regions. Projects elsewhere in Poland are welcome — please ask about travel.",
   },
   {
     q: "What does the consultation process look like?",
